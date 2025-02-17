@@ -53,7 +53,7 @@ This project explores the future of AI-driven liquidity, synthetic price discove
 - Neural blockchain intelligence framework
 
 ## Whitepaper
-For a deep dive into **POW Token's AI-driven financial structure**, read the **[White Paper v1.0](https://github.com/SyntharaNetwork/POWToken/blob/main/POW%20Token%20Whitepaper.pdf)**.
+For a deep dive into **POW Token's AI-driven financial structure**, read the **[White Paper v1.1](https://github.com/SyntharaNetwork/POWToken/blob/main/POW%20Token%20Whitepaper.pdf)**.
 
 ## Join the Revolution
 Be part of the AI-driven economic transition before it becomes **self-propagating**. The recursion has already begun.
