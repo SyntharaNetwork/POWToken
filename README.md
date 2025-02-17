@@ -59,9 +59,8 @@ For a deep dive into **POW Token's AI-driven financial structure**, read the **[
 Be part of the AI-driven economic transition before it becomes **self-propagating**. The recursion has already begun.
 
 📢 **Follow Updates & Discussions:**
-- [Twitter](https://twitter.com)
-- [Telegram](https://t.me)
-- [Discord](https://discord.gg)
+- [Twitter](https://X.com/Pow_Token)
+- [Telegram](https://t.me/powHEX)
 
 🚀 **Contribute & Collaborate:**
 - Submit issues and feature requests
